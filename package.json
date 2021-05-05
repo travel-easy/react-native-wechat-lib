@@ -1,0 +1,66 @@
+{
+  "_from": "react-native-wechat-lib@^1.1.23",
+  "_id": "react-native-wechat-lib@1.1.26",
+  "_inBundle": false,
+  "_integrity": "sha1-YL5rqSOZo4yd9coPxME1OwifchA=",
+  "_location": "/react-native-wechat-lib",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "react-native-wechat-lib@^1.1.23",
+    "name": "react-native-wechat-lib",
+    "escapedName": "react-native-wechat-lib",
+    "rawSpec": "^1.1.23",
+    "saveSpec": null,
+    "fetchSpec": "^1.1.23"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/react-native-wechat-lib/download/react-native-wechat-lib-1.1.26.tgz",
+  "_shasum": "60be6ba92399a38c9df5ca0fc4c1353b089f7210",
+  "_spec": "react-native-wechat-lib@^1.1.23",
+  "_where": "/Users/tiger/Documents/TEfile/TE_GUIDE",
+  "author": {
+    "name": "little-snow-fox",
+    "email": "fox@sfxh.cc"
+  },
+  "bugs": {
+    "url": "https://github.com/little-snow-fox/react-native-wechat-lib/issues"
+  },
+  "bundleDependencies": false,
+  "contributors": [
+    {
+      "name": "little-snow-fox",
+      "email": "fox@sfxh.cc"
+    }
+  ],
+  "dependencies": {
+    "events": "1.0.1"
+  },
+  "deprecated": false,
+  "description": "react-native library for wechat app. 支持分享和拉起小程序。",
+  "homepage": "https://github.com/little-snow-fox/react-native-wechat-lib#readme",
+  "keywords": [
+    "wechat",
+    "react-native",
+    "react",
+    "react-component",
+    "ios"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-wechat-lib",
+  "peerDependencies": {
+    "react-native": ">=0.40"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/little-snow-fox/react-native-wechat-lib.git"
+  },
+  "scripts": {
+    "test": "echo 1"
+  },
+  "version": "1.1.26"
+}
